@@ -18,4 +18,6 @@ Estás desarrollando un sistema de gestión de tareas para proyectos. En este si
 
 ### Diagrama de clases siguiendo el patron Composite
 ![Diagrama de clases ](https://github.com/user-attachments/assets/28db5824-be2f-4148-adcd-c89fb8691bab)
+
+
 La elección del patrón **Composite** para este sistema de gestión de tareas se justifica porque nos permite manejar proyectos, tareas y subtareas de manera uniforme, facilitando la organización jerárquica de elementos en una estructura de árbol. En este caso, cada proyecto puede contener múltiples tareas y cada tarea puede descomponerse en subtareas. Esta organización jerárquica es ideal para el patrón Composite, ya que cada componente en el árbol (ya sea un proyecto, una tarea o una subtarea) se trata de forma consistente mediante una interfaz común, *ComponenteTarea*, que define las operaciones necesarias para obtener el progreso y gestionar la composición de elementos.
