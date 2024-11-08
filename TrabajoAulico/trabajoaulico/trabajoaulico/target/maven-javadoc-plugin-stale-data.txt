@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Bianca/Desktop/POO2/TrabajoAulico/trabajoaulico/trabajoaulico/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Bianca/Desktop/POO2/TrabajoAulico/trabajoaulico/trabajoaulico/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'trabajoaulico 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'trabajoaulico 1.0-SNAPSHOT API'
+com.poo
+com.poo.modelo
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\src\main\java = 1731101859641
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\allclasses-index.html = 1731106563524
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\allpackages-index.html = 1731106563544
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\copy.svg = 1731106563681
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\element-list = 1731106563317
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\help-doc.html = 1731106563670
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\index-all.html = 1731106563643
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\index.html = 1731106563506
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\link.svg = 1731106563692
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\member-search-index.js = 1731106563626
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\module-search-index.js = 1731106563544
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\overview-summary.html = 1731106563661
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\overview-tree.html = 1731106563493
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\package-search-index.js = 1731106563554
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\script.js = 1731106563681
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\search-page.js = 1731106563742
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\search.html = 1731106563657
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\search.js = 1731106563736
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\stylesheet.css = 1731106563681
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\tag-search-index.js = 1731106563630
+C:\Users\Bianca\Desktop\POO2\TrabajoAulico\trabajoaulico\trabajoaulico\target\reports\apidocs\type-search-index.js = 1731106563554
